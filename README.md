@@ -5,7 +5,7 @@ These are custom shape libraries for diagrams.net (formally known as draw.io) of
 * icons.xml - icons used by puppet in diagrams
 * illustrations.xml - illustrations used by puppet in diagrams
 
-# Usuage
+# Usage
 To [import these libraries](https://www.diagrams.net/blog/custom-libraries)
 
 1. Click File > Open Library from,
