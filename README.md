@@ -6,7 +6,13 @@ These are custom shape libraries for diagrams.net (formally known as draw.io) of
 * illustrations.xml - illustrations used by puppet in diagrams
 
 # Usage
-To [import these libraries](https://www.diagrams.net/blog/custom-libraries)
+To use these libraries you can simply click these links to open diagrams.net with the library imported.
+
+* [logos.xml](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuppetlabs%2Fdiagrams-net-libraries%2Fmain%2Flogos.xml)
+* [illustrations.xml](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuppetlabs%2Fdiagrams-net-libraries%2Fmain%2Fillustrations.xml)
+* [icons.xml](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuppetlabs%2Fdiagrams-net-libraries%2Fmain%2Ficons.xml)
+
+Alternatively to [import these libraries](https://www.diagrams.net/blog/custom-libraries)
 
 1. Click File > Open Library from,
 2. Github.. > enter value
