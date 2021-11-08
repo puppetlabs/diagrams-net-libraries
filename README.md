@@ -10,8 +10,10 @@ To [import these libraries](https://www.diagrams.net/blog/custom-libraries)
 
 1. Click File > Open Library from,
 2. Github.. > enter value
-3. puppetlabs/diagrams-net-libraries/logos.xml (chosing the library file you wish to use)
+3. puppetlabs/diagrams-net-libraries
+4. main > choose the library file to load
 
+![Image of importing a library](import_library.gif)
 
 # Ownership & Copyright
 All logos, illustrations and icons are (i) the intellectual property of Puppet, Inc. and may only be used by for internal, non-commercial documentation and diagrams, and (ii) subject to Puppet's trademark policy available at [puppet.com/legal.](https://puppet.com/legal/)
